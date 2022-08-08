@@ -7,13 +7,13 @@ This is my Portfolio Project using HTML / CSS and Bootstrap. I will be using thi
 
 ## Technologies Used
 
-*HTML
-*CSS
+* HTML
+* CSS
 
-##Installation
+## Installation
 
 No need to install any software, just open up index.html
 
-##How to use?
+## How to use?
 
 Use this template to build your own portfolio
